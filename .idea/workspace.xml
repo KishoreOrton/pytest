@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26ff547b-ea99-427e-b581-bba8c0dd536c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pytest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro/test_Pytest_Addition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intro/test_verification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParallelMode_Markers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParallelMode_Markers/test_Markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParallelMode_Markers/test_Parallel_Webpage_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_Fixtures_Webpage/Webpage_Fixture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_Fixtures_Webpage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_HTML_output/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_HTML_output/test_HTML.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2b5KN1NhJSLfkwRQIvOdZW2FIIp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.pytest for Parallel.test_Case1.executor": "Run",
+    "Python tests.pytest for Pytest_Addition.test_add.executor": "Debug",
+    "Python tests.pytest for test_Parallel.test_Case3.executor": "Run",
+    "Python tests.pytest for test_Parallel_Webpage_login.test_google.executor": "Run",
+    "Python tests.pytest for test_Parallel_Webpage_login.test_instagram.executor": "Run",
+    "Python tests.pytest for test_precondition.test_googlename.executor": "Run",
+    "Python tests.pytest for test_verification.test_m1.executor": "Run",
+    "Python tests.pytest for test_verification.test_m2.executor": "Run",
+    "Python tests.pytest for test_verification.test_m3.executor": "Run",
+    "Python tests.pytest in Parallel.py.executor": "Run",
+    "Python tests.pytest in Pytest_Addition.py.executor": "Run",
+    "Python tests.pytest in test_Parallel.py.executor": "Run",
+    "Python tests.pytest in test_Parallel_Webpage_login.py.executor": "Run",
+    "Python tests.pytest in test_Pytest_Addition.py.executor": "Run",
+    "Python tests.pytest in test_precondition.py.executor": "Run",
+    "Python tests.pytest in test_verification.py.executor": "Run",
+    "Python.Pytest_Addition.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="pytest for test_Fixtures_Webpage.Webpage_Fixture.test_googlename" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Fixtures_Webpage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Fixtures_Webpage.Webpage_Fixture.test_googlename&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Parallel_Webpage_login.test_google" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ParallelMode_Markers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Parallel_Webpage_login.test_google&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_Parallel_Webpage_login.test_instagram" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ParallelMode_Markers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Parallel_Webpage_login.test_instagram&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Webpage_Fixture.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Fixtures_Webpage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_Fixtures_Webpage/Webpage_Fixture.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_Parallel_Webpage_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ParallelMode_Markers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/ParallelMode_Markers/test_Parallel_Webpage_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in Webpage_Fixture.py" />
+        <item itemvalue="Python tests.pytest for test_Fixtures_Webpage.Webpage_Fixture.test_googlename" />
+        <item itemvalue="Python tests.pytest in test_Parallel_Webpage_login.py" />
+        <item itemvalue="Python tests.pytest for test_Parallel_Webpage_login.test_google" />
+        <item itemvalue="Python tests.pytest for test_Parallel_Webpage_login.test_instagram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26ff547b-ea99-427e-b581-bba8c0dd536c" name="Changes" comment="" />
+      <created>1705499455629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705499455629</updated>
+    </task>
+    <servers />
+  </component>
+</project>
