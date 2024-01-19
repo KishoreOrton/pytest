@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ff547b-ea99-427e-b581-bba8c0dd536c" name="Changes" comment="New pytest" />
+    <list default="true" id="26ff547b-ea99-427e-b581-bba8c0dd536c" name="Changes" comment="New pytest">
+      <change afterPath="$PROJECT_DIR$/test_Fixtures_Webpage/test_Multiple_Browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_Global_Fixture/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_Global_Fixture/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_Global_Fixture/test_test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_Global_Fixture/test_test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest_html_report.html" beforeDir="false" afterPath="$PROJECT_DIR$/pytest_html_report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Fixtures_Webpage/Webpage_Fixture.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_Fixtures_Webpage/test_Webpage_Fixture.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,10 +56,12 @@
     "Python tests.pytest in Parallel.py.executor": "Run",
     "Python tests.pytest in Pytest_Addition.py.executor": "Run",
     "Python tests.pytest in test_Markers.py.executor": "Run",
+    "Python tests.pytest in test_Multiple_Browser.py.executor": "Run",
     "Python tests.pytest in test_Parallel.py.executor": "Run",
     "Python tests.pytest in test_Parallel_Webpage_login.py.executor": "Run",
     "Python tests.pytest in test_Pytest_Addition.py.executor": "Run",
     "Python tests.pytest in test_precondition.py.executor": "Run",
+    "Python tests.pytest in test_test1.py.executor": "Run",
     "Python tests.pytest in test_verification.py.executor": "Run",
     "Python.Pytest_Addition.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -59,24 +71,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.pytest in test_Parallel_Webpage_login.py">
-    <configuration name="pytest in Webpage_Fixture.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="pytest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Fixtures_Webpage" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_Fixtures_Webpage/Webpage_Fixture.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.pytest in test_test2.py">
     <configuration name="pytest in test_Markers.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pytest" />
       <option name="ENV_FILES" value="" />
@@ -91,6 +86,23 @@
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/ParallelMode_Markers/test_Markers.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_Multiple_Browser.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Fixtures_Webpage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_Fixtures_Webpage/test_Multiple_Browser.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -111,47 +123,47 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_Pytest_Addition.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_test1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pytest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Global_Fixture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Intro/test_Pytest_Addition.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_Global_Fixture/test_test1.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_verification.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_test2.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pytest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_Global_Fixture" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Intro/test_verification.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_Global_Fixture/test_test2.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest in test_test2.py" />
+        <item itemvalue="Python tests.pytest in test_test1.py" />
+        <item itemvalue="Python tests.pytest in test_Multiple_Browser.py" />
         <item itemvalue="Python tests.pytest in test_Parallel_Webpage_login.py" />
         <item itemvalue="Python tests.pytest in test_Markers.py" />
-        <item itemvalue="Python tests.pytest in test_verification.py" />
-        <item itemvalue="Python tests.pytest in test_Pytest_Addition.py" />
-        <item itemvalue="Python tests.pytest in Webpage_Fixture.py" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705644387392</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New pytest">
+      <option name="closed" value="true" />
+      <created>1705644449173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705644449173</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
